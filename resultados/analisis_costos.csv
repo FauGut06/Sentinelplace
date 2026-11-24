@@ -1,0 +1,10 @@
+nodo,costo,porcentaje,sensores
+app,1,93.1,pc1 app salto
+app,2,81.0,app salto
+app,3,61.1,vpn pc1 pc2
+app,4,61.1,vpn pc1 pc2
+nucleo,5,81.0,app salto
+nucleo,4,81.0,app salto
+nucleo,3,81.0,app salto
+nucleo,2,81.0,app salto
+nucleo,1,81.0,app salto

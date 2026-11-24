@@ -1,0 +1,5 @@
+pulp>=4.2
+highspy
+networkx
+matplotlib
+pytest

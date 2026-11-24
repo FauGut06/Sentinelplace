@@ -1,0 +1,5 @@
+nodos,candidatos,rutas,variables,t_rutas_s,t_modelo_s,estado
+50,45,30,75,0.007,0.009,Optimal
+100,95,60,155,0.038,0.014,Optimal
+200,195,60,255,0.069,0.024,Optimal
+400,395,60,455,0.094,0.027,Optimal
