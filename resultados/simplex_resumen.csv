@@ -1,0 +1,26 @@
+nodo,iteracion,entra,sale,z
+Nodo 0: relajacion lineal,1,y1,s1,0
+Nodo 0: relajacion lineal,2,xW,s7,5
+Nodo 0: relajacion lineal,3,y2,s2,9
+Nodo 0: relajacion lineal,4,xA,s8,9
+Nodo 0: relajacion lineal,5,y3,s3,9
+Nodo 0: relajacion lineal,6,xV,s6,21/2
+Nodo 0: relajacion lineal,7,y4,s4,23/2
+Nodo 0: relajacion lineal,8,y5,s5,25/2
+Nodo 0: relajacion lineal,9,xT,s11,25/2
+Nodo 1: x_V = 0,1,y1,s1,0
+Nodo 1: x_V = 0,2,xW,s7,5
+Nodo 1: x_V = 0,3,y2,s2,9
+Nodo 1: x_V = 0,4,xA,s8,9
+Nodo 1: x_V = 0,5,y3,s3,9
+Nodo 1: x_V = 0,6,xS,s6,10
+Nodo 1: x_V = 0,7,y4,s4,32/3
+Nodo 1: x_V = 0,8,y5,s5,35/3
+Nodo 1: x_V = 0,9,xT,s11,35/3
+Nodo 1: x_V = 0,10,s5,xS,12
+Nodo 2: x_V = 1,1,y1,s1,0
+Nodo 2: x_V = 1,2,xW,s6,10/3
+Nodo 2: x_V = 1,3,y2,s2,6
+Nodo 2: x_V = 1,4,y3,s3,9
+Nodo 2: x_V = 1,5,y4,s4,11
+Nodo 2: x_V = 1,6,y5,s5,35/3
